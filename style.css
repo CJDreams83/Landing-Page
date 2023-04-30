@@ -102,6 +102,7 @@ button:hover {
     padding-left:10%;
     padding-right:10%;
     text-align: center;
+    color:#1f2937;
 }
 .title{
     font:36px;
@@ -119,9 +120,93 @@ button:hover {
 .text{
     text-align: center;
     padding-top: 12px;
-    font:18px
+    font:18px;
+    padding-bottom: 5rem;
 }
 /* info css end*//*info css end*//*info css end*/
+
+
+
+.quote{
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+    color: #1f2937;
+    height: 50vh;
+    padding-left:10%;
+    padding-right:10%;
+    justify-content: center;
+
+}
+.quote h3{
+    text-align: center;
+    padding-bottom: 3rem;
+}
+.mom-quote{
+    text-align: center;
+}
+.mom{
+    padding-left: 70% ;
+}
+/* info css end*//*info css end*//*info css end*/
+
+.CTA{
+    width:100%;
+    height:100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #F9FAF8;
+    height: 40vh;
+    padding-top:5rem;
+    padding-bottom: 5rem;
+    justify-content: center;
+    align-content: center;
+}
+.cta{
+    display: flex;
+    flex-direction: column;
+    background-color: #3882F6;
+    padding-left:8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom: 6%;
+    color:#F9FAF8;
+    justify-content: center;
+    width:100%
+}
+.cta .text{
+    text-align: center;
+    padding-bottom: 12px;
+}
+.button-2{
+    margin-left:75%;
+    length:64px;
+    height:8px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #F9FAF8;
+}
+
+/* cta css end*//*cta css end*//*cta css end*/
+
+.footer{
+    width:100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #1f2937;
+    height: 8vh;
+    padding-left:10%;
+    padding-right:10%;
+    color:#F9FAF8;
+    justify-content: center;
+    align-content: center;
+}
 
 
     
