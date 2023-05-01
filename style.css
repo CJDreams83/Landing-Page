@@ -29,7 +29,10 @@ ul{
     list-style: none;
     margin:0px;    
 }
-
+.right-hero img{
+    max-width: 200px;
+    max-height: 280px;
+}
 /*header css end*//*header css end*//*header css end*/
 
 
@@ -47,7 +50,7 @@ a{
     justify-content: center;
     background-color: #1f2937;
     color: #F9FAF8;
-    height: 80vh;
+    height: 50vh;
 }
 .left-hero{
     width:50%;
@@ -86,8 +89,8 @@ button:hover {
     width:50%;
     height:100%;
     max-width:1200px;
-    padding-right: 10%; 
-    display: flex;
+    padding-top: 20px;
+    padding-right: 40%;
     justify-content: center;
     flex-direction: column;
     align-content: flex-end;
@@ -176,8 +179,8 @@ button:hover {
     background-color: #3882F6;
     padding-left:8%;
     padding-right: 8%;
-    padding-top: 4%;
-    padding-bottom: 6%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     color:#F9FAF8;
     justify-content: center;
     width:100%
