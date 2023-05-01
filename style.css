@@ -140,7 +140,7 @@ button:hover {
     flex-wrap: wrap;
     background-color: #E5E7EB;
     color: #1f2937;
-    height: 50vh;
+    height: 30vh;
     padding-left:10%;
     padding-right:10%;
     justify-content: center;
@@ -164,7 +164,7 @@ button:hover {
     display: flex;
     flex-direction: row;
     background-color: #F9FAF8;
-    height: 40vh;
+    height: 30vh;
     padding-top:2rem;
     padding-bottom: 2rem;
     justify-content: center;
