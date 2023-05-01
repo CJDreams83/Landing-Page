@@ -108,8 +108,8 @@ button:hover {
     font:36px;
     font-weight: 600;
     text-align: center;
-    padding-top: 5rem;
-    padding-bottom: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .cards{
@@ -121,7 +121,7 @@ button:hover {
     text-align: center;
     padding-top: 12px;
     font:18px;
-    padding-bottom: 5rem;
+    padding-bottom: 2rem;
 }
 .cards a{
     color:#1f2937;
@@ -148,7 +148,7 @@ button:hover {
 }
 .quote h3{
     text-align: center;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
 }
 .mom-quote{
     text-align: center;
@@ -163,11 +163,10 @@ button:hover {
     height:100%;
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;
     background-color: #F9FAF8;
     height: 40vh;
-    padding-top:5rem;
-    padding-bottom: 5rem;
+    padding-top:2rem;
+    padding-bottom: 2rem;
     justify-content: center;
     align-content: center;
 }
