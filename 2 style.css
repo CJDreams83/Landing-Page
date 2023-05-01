@@ -123,6 +123,11 @@ button:hover {
     font:18px;
     padding-bottom: 5rem;
 }
+.cards a{
+    color:#1f2937;
+    text-decoration: underline;
+
+}
 /* info css end*//*info css end*//*info css end*/
 
 
