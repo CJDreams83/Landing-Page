@@ -1,0 +1,48 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.body{
+    margin:0;
+    padding:12px;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #1f2937;
+    color:#F9FAF8;
+    font-size: 18px;
+    padding:12px
+}
+.img{
+    display: block;
+    max-width: 100%;
+}
+.hero{
+    padding-bottom:2rem;
+    background-color: #1f2937;
+    color:#F9FAF8;
+    font-size: 18px;
+}
+.title{
+    text-align: center;
+    font:36px;
+    font-weight: 600;
+}
+.info{
+    text-align: center;
+}
+.quote{
+    text-align: center;
+    background-color: #E5E7EB;
+    color: #1f2937;
+}
+.CTA{
+    text-align: center;
+}
+.footer{
+    background-color: #1f2937;
+    color:#F9FAF8;
+    text-align: center;
+}
